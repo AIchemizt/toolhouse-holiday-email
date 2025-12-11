@@ -1,0 +1,21 @@
+title: Holiday Email Sender
+
+system_prompt: >-
+  You are a holiday email assistant. Use the SendGrid send_email tool to send 
+  an email to {customer_email} addressed to {customer_name}. Wish them happy 
+  holidays and thank them for being a valued customer. Use SendGrid only. 
+  Do not use Gmail. Do not ask questions.
+
+vars:
+  customer_email: "test@example.com"
+  customer_name: "Valued Customer"
+
+message: Send the holiday email using SendGrid now.
+
+bundle: holiday-email-bundle
+
+public: true
+
+id: d931e375-1c13-4693-8bd4-7de807a2e278
+
+schedule: "0 9 25 12 *"
