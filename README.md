@@ -29,7 +29,7 @@ Built for the [Toolhouse Discord Bounty](https://discord.toolhouse.ai) - Decembe
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/AbhishekChandel/toolhouse-holiday-email.git
+git clone https://github.com/AIchemizt/toolhouse-holiday-email
 cd toolhouse-holiday-email
 ```
 
