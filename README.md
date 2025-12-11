@@ -150,9 +150,8 @@ toolhouse-holiday-email/
 
 ## 🔗 Links
 
-- **Agent URL**: https://agents.toolhouse.ai/d931e375-1c13-4693-8bd4-7de807a2e278
+- **Agent URL**: https://app.toolhouse.ai/agents/d931e375-1c13-4693-8bd4-7de807a2e278
 - **Toolhouse**: https://toolhouse.ai
-- **Discord**: https://discord.toolhouse.ai
 
 ---
 
